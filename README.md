@@ -43,7 +43,7 @@ The layout utilizes a mobile-first approach. The sidebar stacks vertically on mo
 * Tailwind CSS (via CDN)
 *  JavaScript 
 
-Name of dtudent 
+Name of student 
 m.Beatrice
 
 
