@@ -17,7 +17,6 @@ A responsive blog template developed using **HTML5**, **Tailwind CSS**, and **Va
 * **Interactive Feedback**: Every "Like" action triggers an `updateScore()` function that modifies the DOM in real-time.
 * **Conditional Styling**: Includes logic to monitor the score value; once the counter reaches 10, the element’s style is programmatically changed to a gold color to reward user interaction.
 
-
 ## Project Architecture
 
 ### File Structure
@@ -43,7 +42,7 @@ The layout utilizes a mobile-first approach. The sidebar stacks vertically on mo
 * Tailwind CSS (via CDN)
 *  JavaScript 
 
-Name of dtudent 
+Name of student 
 m.Beatrice
 
 
